@@ -1,0 +1,41 @@
+{
+  "name": "px-flag-design",
+  "version": "0.2.17",
+  "authors": [
+    "General Electric",
+    "Harry Roberts <harry@csswizardry.com>"
+  ],
+  "description": "The flag object for Predix UI",
+  "main": "_objects.flag.scss",
+  "keywords": [
+    "px",
+    "sass",
+    "flag"
+  ],
+  "homepage": "https://github.com/PredixDev/px-flag-design.git",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "sass",
+    ".github",
+    "OSS_Notice.pdf"
+  ],
+  "dependencies": {
+    "px-defaults-design": "~0.3.0"
+  },
+  "devDependencies": {
+    "px-sass-doc": "^0.2.9",
+    "px-starter-kit-design": "~0.6.0"
+  },
+  "_release": "0.2.17",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.17",
+    "commit": "3a0e42821f79cd99cd4df3518b7ddb8abd87bca4"
+  },
+  "_source": "https://github.com/predixDev/px-flag-design.git",
+  "_target": "^0.2.12",
+  "_originalSource": "px-flag-design"
+}

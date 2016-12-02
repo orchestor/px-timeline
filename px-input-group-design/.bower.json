@@ -1,0 +1,45 @@
+{
+  "name": "px-input-group-design",
+  "version": "0.2.25",
+  "authors": [
+    "General Electric"
+  ],
+  "description": "Input group styles for Predix UI",
+  "main": "_objects.input-group.scss",
+  "keywords": [
+    "px",
+    "sass",
+    "input",
+    "groups"
+  ],
+  "homepage": "https://github.com/PredixDev/px-input-group-design.git",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "px-buttons-design": "^0.4.26",
+    "px-forms-design": "^0.3.17"
+  },
+  "devDependencies": {
+    "px-starter-kit-design": "~0.6.0",
+    "px-demo-snippet": "^0.6.9",
+    "px-sass-doc": "^0.2.10",
+    "px-spacing-design": "^0.3.8",
+    "px-iconography-design": "^0.3.0",
+    "px-buttons-design": "^0.4.26"
+  },
+  "_release": "0.2.25",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.25",
+    "commit": "317f6abd5035b0e322dd67792d51af265d8012d2"
+  },
+  "_source": "https://github.com/predixDev/px-input-group-design.git",
+  "_target": "^0.2.12",
+  "_originalSource": "px-input-group-design"
+}
