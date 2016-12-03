@@ -1,6 +1,6 @@
 {
   "name": "px-timeline",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": [
     "px-timeline.html"
   ],
@@ -43,14 +43,14 @@
     "px-flag-design": "^0.2.12"
   },
   "homepage": "https://github.com/PredixDev/px-timeline",
-  "_release": "0.1.1",
+  "_release": "0.1.2",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.1",
-    "commit": "a1c7eee426ace18b1544cf87e93b0f29b3d0d3f6"
+    "tag": "v0.1.2",
+    "commit": "857d77c46739e06e96dbcf0687626d3827164e7a"
   },
   "_source": "https://github.com/PredixDev/px-timeline.git",
-  "_target": "^0.1.1",
+  "_target": "^0.1.2",
   "_originalSource": "https://github.com/PredixDev/px-timeline.git",
   "_direct": true
 }
